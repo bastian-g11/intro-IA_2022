@@ -21,5 +21,5 @@ Debido al tamaño del dataset se modifica la cantidad de datos, y se pueden hace
     
 ## Video
 
-[Entrega 2 - Explicación](https://www.youtube.com/watch?v=PnVMXru5J8I&ab_channel=SGC)
+[Entrega 2 - Explicación](https://www.youtube.com/watch?v=PnVMXru5J8I&ab_channel=SGC)  
 [Entrega Final - Explicación](https://www.youtube.com/watch?v=rFjOk9ugj4s)
